@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plants Vs Zombies Cheat", "Plants Vs Zombies Cheat\Plants Vs Zombies Cheat.vcxproj", "{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Debug|x64.ActiveCfg = Debug|x64
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Debug|x64.Build.0 = Debug|x64
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Debug|x86.Build.0 = Debug|Win32
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Release|x64.ActiveCfg = Release|x64
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Release|x64.Build.0 = Release|x64
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Release|x86.ActiveCfg = Release|Win32
+		{BAB4351E-4A4E-4A0A-BBBF-10B61B403FFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F869EEBD-8221-44C5-B642-31C450C40B59}
+	EndGlobalSection
+EndGlobal
